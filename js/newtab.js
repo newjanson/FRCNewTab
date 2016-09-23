@@ -144,7 +144,7 @@ try {
 		}
 	};
 	// Actually open the request.
-	mediaReq.open('GET', 'https://www.thebluealliance.com/api/v2/team/frc' + teamNum + '/media?X-TBA-App-Id=erikboesen:frcnewtab:v1.0');
+	mediaReq.open('GET', 'https://www.thebluealliance.com/api/v2/team/frc' + teamNum + '/media?X-TBA-App-Id=gregzetko2609:frcnewtab:v1.0');
 	mediaReq.send();
 } catch (e) {
 	// If there's a problem, just render the fallback image we created a link to earlier.
