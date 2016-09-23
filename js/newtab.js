@@ -64,7 +64,7 @@ try {
 	// Create request to get data from TBA
 	var req = new XMLHttpRequest();
 	// Get data for team
-	req.open('GET', 'https://www.thebluealliance.com/api/v2/team/frc' + teamNum + '?X-TBA-App-Id=erikboesen:frcnewtab:v1.0');
+	req.open('GET', 'https://www.thebluealliance.com/api/v2/team/frc' + teamNum + '?X-TBA-App-Id=gregzetko2609:frcnewtabca:v1.0');
 	// Send empty data for conclusion
 	req.send();
 	// When the data is ready, figure out where an image is and get ready to set it as the background.
