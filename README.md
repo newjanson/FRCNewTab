@@ -7,7 +7,7 @@ CANADIAN version.
 ![Screenshot](screenshots/3.png)
 
 ## Installation
-The packaged extension can be downloaded [here](https://chrome.google.com/webstore/detail/agmoglelphhinnadfmbfodhkdagibkop/).
+The packaged extension can be downloaded [here](https://chrome.google.com/webstore/detail/dennopgbicbgjgpiodhmedbjnkdjkokh/).
 To install from source:  
 1. Clone or download files.  
 2. Open Chrome Extensions page and activate Developer Mode.  
